@@ -1,0 +1,12 @@
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Manager\bin\Debug\net6.0\ResumeBackend.Manager.deps.json
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Manager\bin\Debug\net6.0\ResumeBackend.Manager.dll
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Manager\bin\Debug\net6.0\ResumeBackend.Manager.pdb
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Manager\obj\Debug\net6.0\ResumeBackend.Manager.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Manager\obj\Debug\net6.0\ResumeBackend.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Manager\obj\Debug\net6.0\ResumeBackend.Manager.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Manager\obj\Debug\net6.0\ResumeBackend.Manager.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Manager\obj\Debug\net6.0\ResumeBackend.Manager.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Manager\obj\Debug\net6.0\ResumeBackend.Manager.dll
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Manager\obj\Debug\net6.0\refint\ResumeBackend.Manager.dll
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Manager\obj\Debug\net6.0\ResumeBackend.Manager.pdb
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Manager\obj\Debug\net6.0\ref\ResumeBackend.Manager.dll

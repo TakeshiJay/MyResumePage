@@ -1,0 +1,12 @@
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Models\bin\Debug\net6.0\ResumeBackend.Models.deps.json
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Models\bin\Debug\net6.0\ResumeBackend.Models.dll
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Models\bin\Debug\net6.0\ResumeBackend.Models.pdb
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Models\obj\Debug\net6.0\ResumeBackend.Models.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Models\obj\Debug\net6.0\ResumeBackend.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Models\obj\Debug\net6.0\ResumeBackend.Models.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Models\obj\Debug\net6.0\ResumeBackend.Models.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Models\obj\Debug\net6.0\ResumeBackend.Models.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Models\obj\Debug\net6.0\ResumeBackend.Models.dll
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Models\obj\Debug\net6.0\refint\ResumeBackend.Models.dll
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Models\obj\Debug\net6.0\ResumeBackend.Models.pdb
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.Models\obj\Debug\net6.0\ref\ResumeBackend.Models.dll

@@ -1,0 +1,83 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleApp/1.0.0": {
+        "dependencies": {
+          "ResumeBackend.DataAccess": "1.0.0",
+          "ResumeBackend.Manager": "1.0.0",
+          "ResumeBackend.Models": "1.0.0",
+          "ResumeBackend.Security": "1.0.0",
+          "ResumeBackend.Service": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp.dll": {}
+        }
+      },
+      "ResumeBackend.DataAccess/1.0.0": {
+        "runtime": {
+          "ResumeBackend.DataAccess.dll": {}
+        }
+      },
+      "ResumeBackend.Manager/1.0.0": {
+        "runtime": {
+          "ResumeBackend.Manager.dll": {}
+        }
+      },
+      "ResumeBackend.Models/1.0.0": {
+        "runtime": {
+          "ResumeBackend.Models.dll": {}
+        }
+      },
+      "ResumeBackend.Security/1.0.0": {
+        "dependencies": {
+          "ResumeBackend.Models": "1.0.0"
+        },
+        "runtime": {
+          "ResumeBackend.Security.dll": {}
+        }
+      },
+      "ResumeBackend.Service/1.0.0": {
+        "runtime": {
+          "ResumeBackend.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ResumeBackend.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ResumeBackend.Manager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ResumeBackend.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ResumeBackend.Security/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ResumeBackend.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
