@@ -1,0 +1,174 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ResumeBackend.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ResumeBackend.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ResumeBackend.DataAccess.dll": {}
+        }
+      },
+      "ResumeBackend.Manager/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ResumeBackend.Manager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ResumeBackend.Manager.dll": {}
+        }
+      },
+      "ResumeBackend.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ResumeBackend.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ResumeBackend.Models.dll": {}
+        }
+      },
+      "ResumeBackend.Security/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ResumeBackend.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ResumeBackend.Security.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ResumeBackend.Security.dll": {}
+        }
+      },
+      "ResumeBackend.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ResumeBackend.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ResumeBackend.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ResumeBackend.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../ResumeBackend.DataAccess/ResumeBackend.DataAccess.csproj",
+      "msbuildProject": "../ResumeBackend.DataAccess/ResumeBackend.DataAccess.csproj"
+    },
+    "ResumeBackend.Manager/1.0.0": {
+      "type": "project",
+      "path": "../ResumeBackend.Manager/ResumeBackend.Manager.csproj",
+      "msbuildProject": "../ResumeBackend.Manager/ResumeBackend.Manager.csproj"
+    },
+    "ResumeBackend.Models/1.0.0": {
+      "type": "project",
+      "path": "../ResumeBackend.Models/ResumeBackend.Models.csproj",
+      "msbuildProject": "../ResumeBackend.Models/ResumeBackend.Models.csproj"
+    },
+    "ResumeBackend.Security/1.0.0": {
+      "type": "project",
+      "path": "../ResumeBackend.Security/ResumeBackend.Security.csproj",
+      "msbuildProject": "../ResumeBackend.Security/ResumeBackend.Security.csproj"
+    },
+    "ResumeBackend.Service/1.0.0": {
+      "type": "project",
+      "path": "../ResumeBackend.Service/ResumeBackend.Service.csproj",
+      "msbuildProject": "../ResumeBackend.Service/ResumeBackend.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ResumeBackend.DataAccess >= 1.0.0",
+      "ResumeBackend.Manager >= 1.0.0",
+      "ResumeBackend.Models >= 1.0.0",
+      "ResumeBackend.Security >= 1.0.0",
+      "ResumeBackend.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jacob\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ConsoleApp\\ConsoleApp.csproj",
+      "projectName": "ConsoleApp",
+      "projectPath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ConsoleApp\\ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend.DataAccess\\ResumeBackend.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend.DataAccess\\ResumeBackend.DataAccess.csproj"
+            },
+            "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend.Manager\\ResumeBackend.Manager.csproj": {
+              "projectPath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend.Manager\\ResumeBackend.Manager.csproj"
+            },
+            "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend.Models\\ResumeBackend.Models.csproj": {
+              "projectPath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend.Models\\ResumeBackend.Models.csproj"
+            },
+            "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend.Security\\ResumeBackend.Security.csproj": {
+              "projectPath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend.Security\\ResumeBackend.Security.csproj"
+            },
+            "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend.Service\\ResumeBackend.Service.csproj": {
+              "projectPath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend.Service\\ResumeBackend.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend\\ResumeBackend.csproj": {}
+    "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\Backend\\ResumeBackend\\ResumeBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend\\ResumeBackend.csproj": {
+    "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\Backend\\ResumeBackend\\ResumeBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend\\ResumeBackend.csproj",
+        "projectUniqueName": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\Backend\\ResumeBackend\\ResumeBackend.csproj",
         "projectName": "ResumeBackend",
-        "projectPath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend\\ResumeBackend.csproj",
+        "projectPath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\Backend\\ResumeBackend\\ResumeBackend.csproj",
         "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend\\obj\\",
+        "outputPath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\Backend\\ResumeBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

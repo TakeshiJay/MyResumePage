@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "X+pXzfPvWIsFx29bdGCSkgCSVU3bUDww5itFxaPmTwSET9M7sIqzzIxC/yQy3rr4BSNEQ8AwKM/29cmEt9dLEQ==",
+  "dgSpecHash": "6EcMCvQPTZr9D6VjcQ3AF+RFJe6Bh0etFGtYfNwgnDEgBvGecCiJVU7ZS6uQDDr5to0dEICxZrblLS8KvfKbHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend.Security\\ResumeBackend.Security.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\Backend\\ResumeBackend.Security\\ResumeBackend.Security.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jacob\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.5\\microsoft.aspnetcore.cryptography.internal.6.0.5.nupkg.sha512",
+    "C:\\Users\\jacob\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.5\\microsoft.aspnetcore.cryptography.keyderivation.6.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

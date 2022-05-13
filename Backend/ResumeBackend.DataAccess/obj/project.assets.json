@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend.DataAccess\\ResumeBackend.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\Backend\\ResumeBackend.DataAccess\\ResumeBackend.DataAccess.csproj",
       "projectName": "ResumeBackend.DataAccess",
-      "projectPath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend.DataAccess\\ResumeBackend.DataAccess.csproj",
+      "projectPath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\Backend\\ResumeBackend.DataAccess\\ResumeBackend.DataAccess.csproj",
       "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\Backend\\ResumeBackend.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

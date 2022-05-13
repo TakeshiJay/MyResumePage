@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Security.Cryptography;
+using Microsoft.AspNetCore.Cryptography.KeyDerivation;
 
 namespace ResumeBackend.Security
 {
     public class RandomNumberGeneration
     {
         /// <summary>
-        /// 
+        /// Function generates a random cryptographic byte string and is determined by the key length
         /// </summary>
         /// <param name="keyLength"></param>
         /// <returns></returns>
@@ -19,7 +20,7 @@ namespace ResumeBackend.Security
             return Convert.ToBase64String(GenerateRandomCryptographicBytes(keyLength));
         }
         /// <summary>
-        /// 
+        /// Generates a random byte string based on the length of the key that is sent to this function
         /// </summary>
         /// <param name="keyLength"></param>
         /// <returns></returns>
@@ -38,5 +39,6 @@ namespace ResumeBackend.Security
                 throw new Exception(ex.Message);
             }
         }
+        
     }
 }

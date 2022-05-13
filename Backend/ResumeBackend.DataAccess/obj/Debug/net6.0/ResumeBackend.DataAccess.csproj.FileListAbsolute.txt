@@ -10,3 +10,15 @@ C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.DataAccess\obj\Debug\
 C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.DataAccess\obj\Debug\net6.0\refint\ResumeBackend.DataAccess.dll
 C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.DataAccess\obj\Debug\net6.0\ResumeBackend.DataAccess.pdb
 C:\Users\jacob\OneDrive\Desktop\MyResumePage\ResumeBackend.DataAccess\obj\Debug\net6.0\ref\ResumeBackend.DataAccess.dll
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\Backend\ResumeBackend.DataAccess\bin\Debug\net6.0\ResumeBackend.DataAccess.deps.json
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\Backend\ResumeBackend.DataAccess\bin\Debug\net6.0\ResumeBackend.DataAccess.dll
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\Backend\ResumeBackend.DataAccess\bin\Debug\net6.0\ResumeBackend.DataAccess.pdb
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\Backend\ResumeBackend.DataAccess\obj\Debug\net6.0\ResumeBackend.DataAccess.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\Backend\ResumeBackend.DataAccess\obj\Debug\net6.0\ResumeBackend.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\Backend\ResumeBackend.DataAccess\obj\Debug\net6.0\ResumeBackend.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\Backend\ResumeBackend.DataAccess\obj\Debug\net6.0\ResumeBackend.DataAccess.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\Backend\ResumeBackend.DataAccess\obj\Debug\net6.0\ResumeBackend.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\Backend\ResumeBackend.DataAccess\obj\Debug\net6.0\ResumeBackend.DataAccess.dll
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\Backend\ResumeBackend.DataAccess\obj\Debug\net6.0\refint\ResumeBackend.DataAccess.dll
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\Backend\ResumeBackend.DataAccess\obj\Debug\net6.0\ResumeBackend.DataAccess.pdb
+C:\Users\jacob\OneDrive\Desktop\MyResumePage\Backend\ResumeBackend.DataAccess\obj\Debug\net6.0\ref\ResumeBackend.DataAccess.dll

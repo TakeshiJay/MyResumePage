@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "koGUSEk27XDq/Nzd80sf1aKhwIKYxLx43oniwSSidfRlr8kHhV/MFMTdtLyKatSveIIcIq+1/4u13KnI2qIpVw==",
+  "dgSpecHash": "4HDfEEo/RLGBgxgiYTU0QLFBMyimpfTNLNIqOghFqyN0YJXczOUNKG1eGyXB5AHXiCBROCT5U/3HH9mTOUFEsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend.DataAccess\\ResumeBackend.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\Backend\\ResumeBackend.DataAccess\\ResumeBackend.DataAccess.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

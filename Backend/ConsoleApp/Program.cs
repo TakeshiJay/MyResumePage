@@ -5,12 +5,15 @@ using ResumeBackend.Manager;
 using ResumeBackend.Service;
 using System.Security.Cryptography;
 
+string testMessage = "this_is_a_test_message";
 PasswordSalting hasher = new PasswordSalting();
-SaltyModel hashResultSha256 = hasher.HashWithSalt("this_is_a_test_password", 64, SHA256.Create());
-SaltyModel hashResultSha512 = hasher.HashWithSalt("this_is_a_test_password", 64, SHA512.Create());
+SHA256 sha = SHA256.Create();
+
+SaltyModel hashResultSha256 = hasher.PasswordCrypting(testMessage);
+SaltyModel unhashFakeResult = hasher.PasswordDecrypting(testMessage, hashResultSha256.salt);
 
 Console.WriteLine(hashResultSha256.salt);
+Console.WriteLine(unhashFakeResult.salt); 
 Console.WriteLine(hashResultSha256.message);
-Console.WriteLine();
-Console.WriteLine(hashResultSha512.salt);
-Console.WriteLine(hashResultSha512.message);
+Console.WriteLine(unhashFakeResult.message);
+

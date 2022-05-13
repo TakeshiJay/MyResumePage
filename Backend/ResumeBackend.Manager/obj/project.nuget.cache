@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5ovK7ArTNS4j8TXnaA6zbMoAxIA+sVyoSKSALd3jCss2rqTxuq7dF+MxDdGmvBz+6O3Zi6msfE/BtWONI9N1oQ==",
+  "dgSpecHash": "MGV3w5P/LCQ6cDQHM38nINDWHS0Vg3+TaWC+4Q7rfdIVUwe5ajix5VKdVG5cUn/8bPbq80yA3Q3BRbr6367hvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\ResumeBackend.Manager\\ResumeBackend.Manager.csproj",
+  "projectFilePath": "C:\\Users\\jacob\\OneDrive\\Desktop\\MyResumePage\\Backend\\ResumeBackend.Manager\\ResumeBackend.Manager.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
